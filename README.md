@@ -8,7 +8,6 @@
 <!-- [![Pypi status](https://badge.fury.io/py/gnn-tracking-tutorials.svg)](https://pypi.org/project/gnn-tracking-tutorials/) -->
 
 [![pre-commit.ci status](https://results.pre-commit.ci/badge/github/gnn-tracking/tutorials/main.svg)](https://results.pre-commit.ci/latest/github/gnn-tracking/tutorials/main)
-[![gh actions](https://github.com/gnn-tracking/tutorials/actions/workflows/test.yaml/badge.svg)](https://github.com/gnn-tracking/tutorials/actions/workflows/test.yaml)
 [![link checker](https://github.com/gnn-tracking/tutorials/actions/workflows/check-links.yaml/badge.svg)](https://github.com/gnn-tracking/tutorials/actions/workflows/check-links.yaml)
 [![gitmoji](https://img.shields.io/badge/gitmoji-%20😜%20😍-FFDD67.svg)](https://gitmoji.dev)
 [![License](https://img.shields.io/github/license/gnn-tracking/tutorials)](https://github.com/gnn-tracking/tutorials/blob/master/LICENSE.txt)
