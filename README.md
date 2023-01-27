@@ -22,7 +22,6 @@ Tutorials and onboarding for the GNN Tracking project
 
 ## 📦 Installation
 
-
 ## 🧰 Development setup
 
 ```bash
