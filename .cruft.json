@@ -1,0 +1,22 @@
+{
+  "template": "git@github.com:klieret/python-cookiecutter.git",
+  "commit": "c650bc109b1f408ded56bbb421747630309e10f8",
+  "checkout": null,
+  "context": {
+    "cookiecutter": {
+      "project_name": "gnn-tracking-tutorials",
+      "package_name": "gnn_tracking_tut",
+      "description": "Tutorials and onboarding for the GNN Tracking project",
+      "user": "gnn-tracking",
+      "url": "https://github.com/gnn-tracking/gnn-tracking-tutorials",
+      "full_name": "Kilian Lieret, Gage deZoort",
+      "email": "kilian.lieret@posteo.de",
+      "maintainer": "Kilian Lieret, Gage deZoort",
+      "maintainer_email": "kilian.lieret@posteo.de",
+      "year": "2023",
+      "_copy_without_render": ["*.css"],
+      "_template": "git@github.com:klieret/python-cookiecutter.git"
+    }
+  },
+  "directory": null
+}
