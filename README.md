@@ -25,7 +25,9 @@ Tutorials and onboarding for the GNN Tracking project
 1. Follow the instructions from [the main library](https://github.com/gnn-tracking/gnn_tracking)
    to set up the conda environment and install the package.
 
-2. Download the [trackml dataset](https://competitions.codalab.org/competitions/20112)
+2. Run `pytest` on the main package
+
+3. Download the [trackml dataset](https://competitions.codalab.org/competitions/20112)
 
 ## 🧰 Development setup
 
