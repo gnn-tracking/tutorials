@@ -27,7 +27,12 @@ Tutorials and onboarding for the GNN Tracking project
 
 2. Run `pytest` on the main package
 
-3. Download the [trackml dataset](https://competitions.codalab.org/competitions/20112)
+3. Download the [trackml dataset](https://competitions.codalab.org/competitions/20112) (see note below)
+
+> **Note**
+> The website [competitions.codalab.org](https://competitions.codalab.org/) does no longer accept new
+> registrations (needed to access the data set). If you do not already have an account there,
+> contact us for the dataset.
 
 ## 🧰 Development setup
 
