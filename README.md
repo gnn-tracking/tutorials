@@ -42,4 +42,5 @@ Tutorials and onboarding for the GNN Tracking project
 ```bash
 pip3 install pre-commit
 pre-commit install
+nbdime config-git enable
 ```
