@@ -1,6 +1,6 @@
 repos:
   - repo: https://github.com/psf/black
-    rev: 23.10.1
+    rev: 23.12.1
     hooks:
       - id: black
       - id: black-jupyter
@@ -14,7 +14,7 @@ repos:
         exclude: '.*\.ipynb'
       - id: trailing-whitespace
   - repo: https://github.com/pycqa/isort
-    rev: 5.12.0
+    rev: 5.13.2
     hooks:
       - id: isort
         name: isort (python)
@@ -32,7 +32,7 @@ repos:
       - id: flake8
         additional_dependencies: ["flake8-bugbear"]
   - repo: https://github.com/pre-commit/mirrors-mypy
-    rev: "v1.6.1"
+    rev: "v1.8.0"
     hooks:
       - id: mypy
         exclude: 'docs/source/conf\.py'
@@ -53,11 +53,11 @@ repos:
       - id: setup-cfg-fmt
         args: [--include-version-classifiers, --max-py-version=3.10]
   - repo: https://github.com/pre-commit/mirrors-prettier
-    rev: "v3.0.3"
+    rev: "v4.0.0-alpha.8"
     hooks:
       - id: prettier
   - repo: https://github.com/hadialqattan/pycln
-    rev: v2.3.0
+    rev: v2.4.0
     hooks:
       - id: pycln
         args: [--config=pyproject.toml]
