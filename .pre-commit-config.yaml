@@ -45,10 +45,6 @@ repos:
     hooks:
       - id: setup-cfg-fmt
         args: [--include-version-classifiers, --max-py-version=3.10]
-  - repo: https://github.com/pre-commit/mirrors-prettier
-    rev: "v4.0.0-alpha.8"
-    hooks:
-      - id: prettier
   - repo: https://github.com/hadialqattan/pycln
     rev: v2.4.0
     hooks:
