@@ -30,12 +30,19 @@ Tutorials and onboarding for the GNN Tracking project
 3. Download the [trackml dataset](https://competitions.codalab.org/competitions/20112) (see note below).
    Note that the full dataset is linked in "Dataset description and other files" in the "Participate"
    tab (O(100GB) of data). The data files of the "Starting Kit"/"Public Data" are only a tiny fraction
-   of this.
+   of this. If you just want to check that everything works or are currently waiting to get access to
+   the data (see note below), you can use the small dataset from [test-data][].
 
-> **Note**
+[test-data]: https://github.com/gnn-tracking/test-data
+
+> [!Note]
 > The website [competitions.codalab.org](https://competitions.codalab.org/) does no longer accept new
 > registrations (needed to access the data set). If you do not already have an account there,
 > contact us for the dataset.
+
+> [!Warning]
+> Do not use the data from the similar Kaggle challenge: This is an older version of the same
+> data that is missing some bug fixes!
 
 ## 🧰 Development setup
 
